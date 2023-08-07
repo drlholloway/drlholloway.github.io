@@ -5,12 +5,8 @@
 </p>
 
 <h1 align="center">
-  Lane Holloway, PhD Website - Powered by Doks
+  Lane Holloway, PhD Website - Powered by Doks Child Theme
 </h1>
-
-<h3 align="center">
-  Based off of Doks Child Theme
-</h3>
 
 <p align="center">
   Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize.
