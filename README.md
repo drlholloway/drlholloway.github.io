@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  My website is based on Doks which is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize.
+  My <a href="https://drlholloway.github.io">website</a> is based on Doks which is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize.
 </p>
 
 <p align="center">
