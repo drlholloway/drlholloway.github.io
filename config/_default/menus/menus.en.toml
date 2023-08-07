@@ -1,68 +1,44 @@
-[[docs]]
-  name = "Prologue"
-  weight = 10
-  identifier = "prologue"
-  url = "/docs/prologue/"
-
-[[docs]]
-  name = "Help"
-  weight = 60
-  identifier = "help"
-  url = "/docs/help/"
-
-# [[docs]]
-#   name = "Lorem"
-#   weight = 70
-#   identifier = "lorem"
-#   url = "/docs/lorem/"
-
-[[guide]]
-  name = "Lorem"
-  weight = 10
-  identifier = "lorem"
-  url = "/guide/lorem/"
-
-[[tutorial]]
-  name = "Lorem"
-  weight = 10
-  identifier = "lorem"
-  url = "/tutorial/lorem/"
+# Main Menu
 
 [[main]]
-  name = "Docs"
-  url = "/docs/prologue/introduction/"
-# url = "/docs/1.0/prologue/introduction/"
+  name = "Technical Interviewing"
+  url = "/interviewing/"
+  identifier = "interviewing"
   weight = 10
 
-# [[main]]
-#   name = "Tutorial"
-#   url = "/tutorial/lorem/ipsum/"
-#   weight = 15
+[[main]]
+  name = "Overview"
+  url = "/interviewing/overview"
+  parent = "interviewing"
+  weight = 10
+  
+[[main]]
+  name = "Behavioral"
+  url = "/interviewing/behavioral"
+  parent = "interviewing"
+  weight = 20
+  
+[[main]]
+  name = "Coding"
+  url = "/interviewing/coding"
+  parent = "interviewing"
+  weight = 30
+  
+[[main]]
+  name = "System Design"
+  url = "/interviewing/systemdesign"
+  parent = "interviewing"
+  weight = 40
 
 [[main]]
-  name = "Blog"
-  url = "/blog/"
+  name = "Dissertation"
+  url = "/dissertation/"
   weight = 20
 
 [[main]]
-  name = "Get Started"
+  name = "Resume"
   weight = 30
-  identifier = "get-started"
-  url = "/docs/prologue/introduction/"
-
-[[main]]
-  name = "Quick Start"
-  weight = 40
-  identifier = "quick-start"
-  url = "/docs/prologue/quick-start/"
-  parent = "get-started"
-
-[[main]]
-  name = "Tutorial"
-  weight = 50
-  identifier = "tutorial"
-  url = "https://getdoks.org/tutorial/introduction/"
-  parent = "get-started"
+  url = "/resume/"
 
 [[social]]
   name = "GitHub"
