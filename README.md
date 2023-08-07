@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  Doks Child Theme
+  Based off of Doks Child Theme
 </h3>
 
 <p align="center">
