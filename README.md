@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  Doks
+  Lane Holloway, PhD Website - Powered by Doks
 </h1>
 
 <h3 align="center">
