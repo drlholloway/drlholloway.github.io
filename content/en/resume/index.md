@@ -57,7 +57,7 @@ Academically, I'm a PhD from The University of Texas at Austin. My research appl
 
 * Provided technical leadership, architecture, planning, and guidance to multiple projects
 * Launched and supported multiple projects that have multi-quarter goals, releases, differing stakeholders, and product spanning impact
-* Mentored developers who are at various stages in their career 
+* Mentored developers who are at various stages in their career
 * Helped launch the HomeAway Data Exploration and Science Birds of a Feather group
 * Evangelized and implemented SONAR to track and manage code quality
 * Increased test coverage and decreased complexity in multiple codebases while implementing new features delivered ahead of schedule
