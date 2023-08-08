@@ -17,13 +17,13 @@ Academically, I'm a PhD from The University of Texas at Austin. My research appl
 
 ### Career Break - Full-time Parenting
 
-**October 2021 - Present**
+#### October 2021 - Present
 
 * I left Amazon to handle a family emergency that required all my attention. Everyone involved is now healthy.
 
 ### Amazon Web Services - Senior Software Development Engineer
 
-**August 2019 - October 2021**
+#### August 2019 - October 2021
 
 * Led, designed, and helped implement DataPrepper, Observability, and OpenSearch Ingestion for AWS OpenSearch with multiple teams. I managed all technical aspects of the project and helped coordinate messaging, deliverables, and timelines across the teams externally and internally.
 * Partnered with organizations across Amazon to size their OpenSearch clusters for performance, scale, and cost.
@@ -32,7 +32,7 @@ Academically, I'm a PhD from The University of Texas at Austin. My research appl
 
 ### Amazon - Senior Software Development Engineer
 
-**August 2016 - August 2019**
+#### August 2016 - August 2019
 
 * Led technical direction and development for six projects, Amazon Insights into Manufacturing (AIM) in the Industrial Internet of Things (IIOT) space to gain insights into Amazon's fulfillment processes leading to improved efficiency and cost savings.
 * AWS TimeStream based on architecture and designs of AIM
@@ -45,7 +45,7 @@ Academically, I'm a PhD from The University of Texas at Austin. My research appl
 
 ### Rapid7 - Principal Portfolio Architect in the Office of the CTO
 
-**July 2014 - July 2016**
+#### July 2014 - July 2016
 
 * Led teams technically and worked with stakeholders at various levels to deliver major project on-time
 * Combined multiple inter-office continuous-learning groups into a unified group that met regularly
@@ -53,7 +53,7 @@ Academically, I'm a PhD from The University of Texas at Austin. My research appl
 
 ### HomeAway - Staff Software Engineer Team Lead
 
-**May 2013 - July 2014**
+#### May 2013 - July 2014
 
 * Provided technical leadership, architecture, planning, and guidance to multiple projects
 * Launched and supported multiple projects that have multi-quarter goals, releases, differing stakeholders, and product spanning impact
@@ -64,7 +64,7 @@ Academically, I'm a PhD from The University of Texas at Austin. My research appl
 
 ### Sotera Defense Solutions, Inc - Senior Software Developer
 
-**November 2010 - May 2013**
+#### November 2010 - May 2013
 
 * Created a MapReduce deduplication routine for a cloud system running a modified CDH installation
 * Architected and created an analytic pipeline using MapReduce and Hadoop for graph analytics for big data
@@ -77,7 +77,7 @@ Academically, I'm a PhD from The University of Texas at Austin. My research appl
 
 ### IBM - Senior Software Developer
 
-**June 2006 - November 2010**
+#### June 2006 - November 2010
 
 * Architected, developed and maintained a suite of high-availability web reporting and analysis tools.
 * Two patents covering data input in tools.
@@ -91,7 +91,7 @@ Academically, I'm a PhD from The University of Texas at Austin. My research appl
 
 ### IBM - Lead Software Developer
 
-**August 2003 - June 2006**
+#### August 2003 - June 2006
 
 * Led design, development, and testing of web-based questionnaire system deployed to both customer-facing and internal-facing portals
 * Integrated questionnaire system with multiple departments for business analytics
@@ -100,14 +100,14 @@ Academically, I'm a PhD from The University of Texas at Austin. My research appl
 
 ### IBM - Software Developer
 
-**September 2000 - August 2003**
+#### September 2000 - August 2003
 
 * Architected, developed, and tested Lotus Notes and Java Applet-based interactive questionnaires deployed to customer-facing portals
 * Researched, compared, and summarized various software development techniques
 
 ### The University of Texas at San Antonio - Research Assistant
 
-**August 2002 - August 2003**
+#### August 2002 - August 2003
 
 * Implemented and tested Dynamic Frequent Line Cache using SimpleScalar
 * Developed software for configuration and monitoring of an FPGA-based intrusion detection system
@@ -117,16 +117,16 @@ Academically, I'm a PhD from The University of Texas at Austin. My research appl
 
 ### The University of Texas at Austin - Ph.D. Electrical Engineering
 
-**August 2003 - May 2016**
+#### August 2003 - May 2016
 
 * Dissertation: Modeling and Formal Verification of Gaming Storylines
 
 ### The University of Texas at San Antonio - M.S. Electrical Engineering
 
-**January 2002 - August 2003**
+#### January 2002 - August 2003
 
 * Thesis: Dynamic Frequent Line Cache
 
 ### The University of Texas at Austin - B.S. Electrical Engineering
 
-**August 1998 - December 2001**
+#### August 1998 - December 2001
