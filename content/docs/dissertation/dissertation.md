@@ -18,4 +18,5 @@ seo:
   noindex: false # false (default) or true
 ---
 
-There will be much more here eventually, until then, enjoy the zen-like empty page.
+There will be much more here eventually, until then, enjoy the zen-like empty
+page.
