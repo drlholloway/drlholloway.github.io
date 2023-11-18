@@ -1,0 +1,14 @@
+[[main]]
+  name = "GitHub"
+  url = "https://github.com/drlholloway"
+  weight = 10
+
+[[social]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/lane-holloway-phd"
+  weight = 20
+
+[[social]]
+  name = "Twitter"
+  url = "https://twitter.com/drlholloway"
+  weight = 30
