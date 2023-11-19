@@ -28,7 +28,7 @@
 
 [[main]]
   name = "Resume"
-  url = "/resume/resume/"
+  url = "/docs/resume/resume/"
   weight = 30
 
 [[social]]

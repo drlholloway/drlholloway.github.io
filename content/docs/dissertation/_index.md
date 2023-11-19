@@ -9,7 +9,7 @@ menu:
   docs:
     parent: ""
     identifier: "dissertation-e61fe4c1c2a57b55472f868b930e753d"
-weight: 999
+weight: 20
 toc: true
 seo:
   title: "" # custom title (optional)

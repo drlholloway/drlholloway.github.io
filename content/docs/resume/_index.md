@@ -1,15 +1,15 @@
 ---
-title: "Ramblings"
+title: "Resume"
 description: ""
 summary: ""
-date: 2023-11-18T15:13:38-06:00
-lastmod: 2023-11-18T15:13:38-06:00
+date: 2023-11-18T19:23:26-06:00
+lastmod: 2023-11-18T19:23:26-06:00
 draft: false
 menu:
   docs:
     parent: ""
-    identifier: "ramblings-a51d0a90aee587670494f11aa4b6e0b4"
-weight: 10
+    identifier: "resume-97325c20bc202e217da3f990f8c4fc69"
+weight: 30
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -17,5 +17,3 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-
-Soon to be filled with ramblings of a mundane individual.
