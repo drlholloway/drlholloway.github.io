@@ -3,7 +3,7 @@ title: "Resume"
 description: ""
 summary: ""
 date: 2023-11-18T14:51:44-06:00
-lastmod: 2023-11-18T14:51:44-06:00
+lastmod: 2026-07-29T00:00:00-06:00
 draft: false
 seo:
   title: "" # custom title (optional)
@@ -22,9 +22,27 @@ personnel recruitment, growth, and hiring.
 
 ## Experience
 
-### Provi
+### BNSF Railway - Senior Principal Engineer
 
-#### September 2023 - Present
+#### September 2025 - Present
+
+* Leading the technical direction and transformation creating platform
+services for industrial IoT, workforce and labor tracking, asset tracking and
+management, and machine vision, learning, and AI.
+* Partnering with business and finance to ensure long-term adoption and
+success.
+
+### Provi - Principal Software Engineer
+
+#### September 2023 - September 2025
+
+* Led the design and development of advanced software architectures and
+distributed systems, collaborating with cross-functional teams and multiple
+organizations to drive innovation and align technology with strategic business
+objectives.
+* Mentored engineering teams, implemented cutting-edge algorithms, and
+continuously explored emerging technologies to ensure solutions were scalable,
+reliable, and future-ready.
 
 ### Career Break - Full-time Parenting
 
