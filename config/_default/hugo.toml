@@ -1,6 +1,5 @@
 title = "Lane Holloway, PhD"
 baseurl = "/"
-canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
 # disableKinds = ["taxonomy", "term"]
@@ -8,7 +7,6 @@ enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
 languageCode = "en-US"
-paginate = 10
 rssLimit = 10
 summarylength = 20 # 70 (default)
 
@@ -17,17 +15,17 @@ defaultContentLanguage = "en"
 disableLanguages = ["de", "nl"]
 defaultContentLanguageInSubdir = false
 
-copyRight = "Copyright (c) 2023 Lane Holloway, PhD"
+copyRight = "Copyright (c) 2023-2026 Lane Holloway, PhD"
 
 [build.buildStats]
   enable = true
 
-[social]
-  twitter = "drlholloway"
-
 [outputs]
-  home = ["HTML", "RSS", "searchIndex"]
-  section = ["HTML", "RSS", "SITEMAP"]
+  home = ["html", "rss", "sitemap", "searchIndex", "llms"]
+  page = ["html", "markdown"]
+  section = ["html", "rss", "sitemap"]
+  taxonomy = ["html", "rss", "sitemap"]
+  term = ["html", "rss", "sitemap"]
 
 [outputFormats.searchIndex]
   mediaType = "application/json"
@@ -35,14 +33,26 @@ copyRight = "Copyright (c) 2023 Lane Holloway, PhD"
   isPlainText = true
   notAlternative = true
 
+[outputFormats.markdown]
+  baseName = "index"
+  isHTML = false
+  isPlainText = true
+  mediaType = "text/markdown"
+
+[outputFormats.llms]
+  baseName = "llms"
+  isHTML = false
+  isPlainText = true
+  mediaType = "text/plain"
+
 # Add output format for section sitemap.xml
-[outputFormats.SITEMAP]
-mediaType = "application/xml"
-baseName = "sitemap"
-isHTML = false
-isPlainText = true
-noUgly = true
-rel  = "sitemap"
+[outputFormats.sitemap]
+  mediaType = "application/xml"
+  baseName = "sitemap"
+  isHTML = false
+  isPlainText = true
+  noUgly = true
+  rel  = "sitemap"
 
 [sitemap]
   changefreq = "monthly"
@@ -50,7 +60,7 @@ rel  = "sitemap"
   priority = 0.5
 
 [caches]
-  [caches.getjson]
+  [caches.getresource]
     dir = ":cacheDir/:project"
     maxAge = -1 # "30m"
 
@@ -65,21 +75,25 @@ rel  = "sitemap"
 # docs = "/docs/1.0/:sections[1:]/:slug/"
 
 [minify.tdewolff.html]
+  keepComments = true # If set to false, build signatures are removed
   keepWhitespace = false
+
+[pagination]
+  pagerSize = 10
 
 [related]
   threshold = 80
   includeNewer = true
   toLower = false
     [[related.indices]]
-    name = "categories"
-    weight = 100
+      name = "categories"
+      weight = 100
     [[related.indices]]
-    name = "tags"
-    weight = 80
+      name = "tags"
+      weight = 80
     [[related.indices]]
-    name = "date"
-    weight = 10
+      name = "date"
+      weight = 10
 
 [imaging]
   anchor = "Center"
