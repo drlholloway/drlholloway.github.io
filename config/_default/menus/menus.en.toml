@@ -4,6 +4,11 @@
   weight = 10
 
 [[main]]
+  name = "Projects"
+  url = "/docs/projects/"
+  weight = 15
+
+[[main]]
   name = "Dissertation"
   url = "/docs/dissertation/dissertation/"
   weight = 20
