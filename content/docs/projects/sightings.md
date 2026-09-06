@@ -42,8 +42,7 @@ somewhere I could search later.
 
 ## How it is built
 
-The protocol was ported from a reference WebUSB client and split into small
-packages: a pure Dart protocol layer for frames, opcodes, and decoders; a
+The code is split into small packages: a pure Dart protocol layer for frames, opcodes, and decoders; a
 transport layer over libusb via `dart:ffi` with fake and replay transports
 for testing; a typed device client with a connection controller and sweep
 engine; and a SQLite store built on drift. A small CLI can decode, probe,
