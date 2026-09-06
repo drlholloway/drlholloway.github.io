@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-description: ""
+description: "Resume of Lane Holloway, Senior Principal Engineer at BNSF Railway: engineering leadership, distributed systems, platform services, and industrial IoT."
 summary: ""
 date: 2023-11-18T14:51:44-06:00
 lastmod: 2026-07-29T00:00:00-06:00
