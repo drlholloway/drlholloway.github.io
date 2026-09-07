@@ -19,7 +19,9 @@ seo:
   noindex: false # false (default) or true
 ---
 
-**Platforms:** macOS, Linux, Android (USB host / OTG). Built with Flutter and Dart.
+**Source:** [github.com/drlholloway/sightings](https://github.com/drlholloway/sightings) (Flutter and Dart, PolyForm Shield)
+
+**Platforms:** macOS, Linux, Android (USB host / OTG).
 
 ## Why
 
