@@ -98,6 +98,11 @@ copyRight = "Copyright (c) 2023-2026 Lane Holloway, PhD"
 [imaging]
   anchor = "Center"
   bgColor = "#ffffff"
-  hint = "photo"
-  quality = 85
   resampleFilter = "Lanczos"
+  [imaging.jpeg]
+    quality = 85
+  [imaging.webp]
+    quality = 85
+    hint = "photo"
+  [imaging.avif]
+    quality = 85
