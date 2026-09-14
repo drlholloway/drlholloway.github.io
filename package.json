@@ -23,7 +23,7 @@
     "@thulite/images": "^3.3.4",
     "@thulite/inline-svg": "^1.2.2",
     "@thulite/seo": "^2.4.3",
-    "hugo-bin": "^0.162.0",
+    "hugo-bin": "^0.163.0",
     "thulite": "^2.6.5"
   },
   "devDependencies": {
