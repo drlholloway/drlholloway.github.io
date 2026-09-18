@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-description: "Things Lane Holloway has built: Tayda UV artwork prep, Sightings for the DCA75, Fretman for learning the fretboard, and Akashic, a guitar-pedal PCB library."
+description: "Things Lane Holloway has built: Cryptid Effects pedals, Tayda UV artwork prep, Sightings for the DCA75, Fretman for the fretboard, and Akashic, a PCB library."
 summary: "Things I've built, mostly for the electronics bench."
 date: 2026-09-06T09:00:00-05:00
 lastmod: 2026-09-18T00:00:00-05:00
@@ -18,10 +18,11 @@ seo:
   noindex: false # false (default) or true
 ---
 
-Software I've built, mostly to scratch an itch at the electronics bench or
+Things I've built, mostly to scratch an itch at the electronics bench or
 the music stand.
 
-The **Tayda UV Artwork Processor** turns pedal enclosure artwork into
+**Cryptid Effects** is my guitar pedal company: hand-wired guitar and bass
+effects inspired by legends and lore. The **Tayda UV Artwork Processor** turns pedal enclosure artwork into
 print-ready PDFs for Tayda's UV printing service. **Sightings** is a desktop
 and Android workbench for the Peak Atlas DCA75 semiconductor analyser.
 **Fretman** teaches the notes and chords on a guitar or bass fretboard through
