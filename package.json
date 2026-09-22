@@ -18,7 +18,7 @@
     "postinfo": "hugo version"
   },
   "dependencies": {
-    "@tabler/icons": "^3.46.0",
+    "@tabler/icons": "^3.47.0",
     "@thulite/doks-core": "^1.9.3",
     "@thulite/images": "^3.3.4",
     "@thulite/inline-svg": "^1.2.2",
