@@ -1,9 +1,9 @@
 ---
 title: "Projects"
-description: "Things Lane Holloway has built: Cryptid Effects pedals, Tayda UV artwork prep, Sightings for the DCA75, Fretman for the fretboard, and Akashic, a PCB library."
+description: "Things Lane Holloway has built: Cryptid Effects pedals, Tayda UV artwork prep, Sightings for the DCA75, Fretman for the fretboard, Akashic, a PCB library, and Fast Lane for GitHub chores."
 summary: "Things I've built, mostly for the electronics bench."
 date: 2026-09-06T09:00:00-05:00
-lastmod: 2026-09-18T00:00:00-05:00
+lastmod: 2026-10-21T00:00:00-05:00
 draft: false
 menu:
   docs:
@@ -28,3 +28,5 @@ and Android workbench for the Peak Atlas DCA75 semiconductor analyser.
 **Fretman** teaches the notes and chords on a guitar or bass fretboard through
 quick drills. **Akashic** is a searchable library of DIY guitar-pedal PCBs
 and their parts lists, gathered from every vendor's build documents.
+**Fast Lane** watches my GitHub repos and hands the routine maintenance to
+Claude Code, asking me only when a decision is mine.
