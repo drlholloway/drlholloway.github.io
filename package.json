@@ -11,8 +11,8 @@
     "build": "hugo --minify --gc",
     "test": "echo \"Error: no test specified\"",
     "clean": "npm run clean:build && npm run clean:install",
-    "clean:build": "shx rm -rf public resources .hugo_build.lock",
-    "clean:install": "shx rm -rf node_modules package-lock.json yarn.lock pnpm-lock.yaml",
+    "clean:build": "node -e \"for (const p of ['public', 'resources', '.hugo_build.lock']) require('fs').rmSync(p, { recursive: true, force: true })\"",
+    "clean:install": "node -e \"for (const p of ['node_modules', 'package-lock.json', 'yarn.lock', 'pnpm-lock.yaml']) require('fs').rmSync(p, { recursive: true, force: true })\"",
     "preinfo": "npm version",
     "info": "npm list",
     "postinfo": "hugo version"
@@ -25,9 +25,6 @@
     "@thulite/seo": "^2.4.4",
     "hugo-bin": "^0.166.0",
     "thulite": "^3.0.2"
-  },
-  "devDependencies": {
-    "shx": "^0.4.0"
   },
   "hugo-bin": {
     "buildTags": "extended"
