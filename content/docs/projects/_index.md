@@ -18,8 +18,8 @@ seo:
   noindex: false # false (default) or true
 ---
 
-Things I've built, mostly to scratch an itch at the electronics bench or
-the music stand.
+Things I've built, mostly to scratch an itch at the electronics bench, the
+music stand, or my own GitHub backlog.
 
 **Cryptid Effects** is my guitar pedal company: hand-wired guitar and bass
 effects inspired by legends and lore. The **Tayda UV Artwork Processor** turns pedal enclosure artwork into
@@ -28,5 +28,7 @@ and Android workbench for the Peak Atlas DCA75 semiconductor analyser.
 **Fretman** teaches the notes and chords on a guitar or bass fretboard through
 quick drills. **Akashic** is a searchable library of DIY guitar-pedal PCBs
 and their parts lists, gathered from every vendor's build documents.
-**Fast Lane** watches my GitHub repos and hands the routine maintenance to
-Claude Code, asking me only when a decision is mine.
+**Fast Lane** speeds up the boring tasks of keeping repos healthy, the
+repetitive, mechanical work like merging dependency bumps and fixing broken CI.
+It watches my GitHub repos and hands that routine maintenance to Claude Code,
+asking me only when a decision is mine.
