@@ -1,9 +1,9 @@
 ---
 title: "Projects"
-description: "Things Lane Holloway has built: Cryptid Effects pedals, Tayda UV artwork prep, Sightings for the DCA75, Fretman for the fretboard, Akashic, a PCB library, and Fast Lane for GitHub chores."
+description: "Things Lane Holloway has built: Cryptid Effects pedals, Tayda UV artwork prep, Sightings for the DCA75, Fretman for the fretboard, Akashic, a PCB library, Fast Lane for GitHub chores, and Ley Lines, a map of pedal lineage."
 summary: "Things I've built, mostly for the electronics bench."
 date: 2026-09-06T09:00:00-05:00
-lastmod: 2026-10-21T00:00:00-05:00
+lastmod: 2026-10-25T00:00:00-05:00
 draft: false
 menu:
   docs:
@@ -32,3 +32,5 @@ and their parts lists, gathered from every vendor's build documents.
 repetitive, mechanical work like merging dependency bumps and fixing broken CI.
 It watches my GitHub repos and hands that routine maintenance to Claude Code,
 asking me only when a decision is mine.
+**Ley Lines** maps guitar-pedal lineage: which circuits came from which, and
+the circuit blocks they share.
